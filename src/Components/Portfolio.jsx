@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Aroma Hub-eCommerce Platform",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AROMA HUB, a sophisticated eCommerce platform for exquisite perfumes, using MERN (MongoDB, Express.js, React.js, Node.js) stack.",
+    url: "https://aroma-hub.onrender.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Spotify Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Spotify Clone using MERN Stack with core functionalities like Authentication, Player Controls, Playlist Creation and Search functionality.",
+    url: "http://prod-spotify-clone.onrender.com/",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A portfolio to showcase my skills achievements and know more about me.",
+    url: "https://my-portfolio-client-wheat.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Multi Step Form",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Responsive multi-step form challenge with dynamic validation, smooth transitions, and a modern, mobile-friendly UI, built with HTML, CSS, and JavaScript for Frontend Mentor.",
+    url: "https://multi-step-form-green-ten.vercel.app/",
+  },
+  {
+    title: "Survey App",
+    description:
+      "A React.js Survey App with a dynamic questionnaire, question navigation, answer storage, session tracking, and completion confirmation, ending with a thank you screen.",
+    url: "https://survey-app-nu-six.vercel.app/",
   },
 ];
 
